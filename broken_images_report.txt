@@ -1,0 +1,758 @@
+Report of Missing Image Files
+=============================
+
+Total Images in DB: 395
+Storage Directory: D:\Web Apps\Alfia-1-Beta-Main Live Now\Alfia-1-Beta-Main-new\uploads\storage\generated-images
+
+The following images have records in the database but no corresponding file was found in the storage directory:
+
+ID: 606
+  Expected File: image-606-b1b0f8e4-480a-4a97-9bce-aab7e48e6a45.png
+  Prompt: Eastern fisherman repairing a net by a wooden boat, overcast sky
+  Created At: Fri Feb 06 2026 04:17:14 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 607
+  Expected File: image-607-48c045b5-34ca-47ed-a399-41da797aee99.png
+  Prompt: Fisherman at an old Qatif port, seagulls and buckets
+  Created At: Fri Feb 06 2026 04:18:35 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 609
+  Expected File: image-609-4b9fb057-a8f5-4a71-91ca-2ee63bac42c6.png
+  Prompt: Saudi female astronaut in training simulator, blinking controls
+  Created At: Fri Feb 06 2026 09:23:46 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 610
+  Expected File: image-610-8726e8d1-c8a0-4955-8e0d-b366435e3734.png
+  Prompt: Student carrying books in a modern library, gentle overhead light, shallow depth of field
+  Created At: Fri Feb 06 2026 11:35:40 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 611
+  Expected File: image-611-dad2d0a9-ab83-4119-813c-c4858070ea2a.png
+  Prompt: Baker making tandoor bread at a rural market, soft flame
+  Created At: Wed Feb 11 2026 15:06:16 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 608
+  Expected File: image-608-90a3d763-84b5-4c50-bc45-5b8b831cd084.png
+  Prompt: A woman arranging local flower bouquets in a small shop imagined the scent
+  Created At: Fri Feb 06 2026 04:25:12 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 601
+  Expected File: image-601-6cf1383a-7b42-4e12-b4af-a4bf07e2265e.png
+  Prompt: Two kids chasing soap bubbles in a neighborhood park, candid joy
+  Created At: Fri Feb 06 2026 03:28:01 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 602
+  Expected File: image-602-02b838c4-8bac-4817-a442-fc4ddc63f8c1.png
+  Prompt: Saudi female photographer with camera in Jeddah’s historic alleys, geometric shadows
+  Created At: Fri Feb 06 2026 03:28:32 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 594
+  Expected File: image-12-dfa944de-ad31-4ba7-a1c6-493ae37f4eb1.png
+  Prompt: Cinematic still frame, modern urban kitchen bathed in warm morning light: high three-quarter angle composition over a white marble counter with subtle gray veining. In the lower right third, a pristine white porcelain demitasse sits on a matte black saucer; rich, mottled crema with faint tiger striping fills the cup. A minimal Volt Espresso logo is subtly debossed near the lip of the cup, tone-on-tone. A polished demitasse spoon rests at the saucer’s 11 o’clock, its convex bowl catching a crisp reflection of the protagonist’s eyes—bright, alert, and centered in the tiny mirror-like oval. Upper left third: a sleek, brushed-chrome espresso machine intrudes into frame, side panel facing the viewer with a discreet Volt Espresso badge inset and softly catching the light. The portafilter lies on a folded gray microfiber cloth beside the cup, metal surface clean and reflective. Golden sunlight streams through horizontal blinds, casting precise amber bands across the marble, cup, and machine, with darker stripes creating contrast on a white subway-tile backsplash. Steam from the cup is suspended in delicate, illuminated threads against the shadowed tiles, most visible where light slats intersect. Background elements fall into soft focus: a concrete window ledge with a small potted basil, the faint silhouette of neighboring rooftops beyond the glass. Color palette: warm golds, cool chromes, porcelain whites, and charcoal accents. Depth of field isolates the cup, spoon reflection, and machine badge as the primary plane of attention. Staging emphasizes diagonals from badge to crema to spoon reflection, uniting brand, craft, and spark. Energetic, modern, meticulously composed. 16:9.
+
+Style: 3D cartoon style, soft shading, round features, colorful, playful, Pixar-inspired
+
+Style: photorealistic, high detail, ultra sharp, natural lighting, realistic colors
+  Created At: Tue Jan 27 2026 18:17:37 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 540
+  Expected File: image-540-83cc7088-64d1-4836-8485-0d04118f7ee3.png
+  Prompt: A minimal logo that combines the Arabic letters الفيا and is related to video.
+  Created At: Mon Jan 05 2026 18:27:52 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 364
+  Expected File: image-7-427f2dcd-623a-4a42-bc3a-e763a574ed3f.png
+  Prompt: Cinematic 16:9 urban morning tableau, frozen at curb level. Foreground right: the young creative in three-quarter profile, framed mid-thigh up, contemporary streetwear (light windbreaker, crossbody strap, wireless earbuds), focused gaze. Their forward hand presents a Volt Espresso to-go cup close to lens, logo perfectly legible, kraft sleeve with fine paper fiber texture, matte black lid catching neon speculars, a delicate ribbon of steam suspended at the sip port. Fingertips show subtle condensation sheen from the cup’s warmth.
+
+Midground: wet crosswalk stripes cut diagonals across charcoal asphalt, puddles mirroring saturated cyan and magenta signage. Left side holds a stationary rideshare sedan and a locked bike at a rack, chrome and side windows layering hard-edged reflections. Right side is a full-height glass storefront panel acting like a mirror, duplicating the subject and cup as a slightly skewed reflection that keeps the Volt logo readable in reverse, adding depth and symmetry.
+
+Background: stacked fire escapes, a glowing noodle bar sign in kanji, a cool LED billboard wash, gridded office windows, and a soft white steam halo settled over a street vent near the curb. Overhead utility lines and a traffic signal housing form a subtle lattice against a pale, overcast sky.
+
+Lighting: cool ambient blue overall; magenta neon brushes the subject’s cheek and jacket folds; warm amber spill from the shop interior rims the cup and fingers. High contrast yet controlled, with crisp microtexture on skin, fabric weave, and cup materials. Depth of field isolates the hand and cup sharply; city elements resolve into creamy bokeh and soft-edged reflections.
+
+Color palette: electric cyan and magenta against warm amber accents, with wet asphalt rendered in deep graphite and oil-slick iridescence. Composition anchors the cup on the lower-right rule-of-thirds point; diagonals from crosswalk bars and storefront edge drive perspective into the city grid. No motion blur; a single charged instant with the Volt cup as the visual anchor.
+  Created At: Thu Nov 27 2025 10:39:41 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 246
+  Expected File: image-246-108c263f-b81c-4220-bd2d-2eaf77443e64.jpg
+  Prompt: Saudi female photographer with camera in Jeddah’s historic alleys, geometric shadows
+  Created At: Tue Nov 11 2025 03:44:19 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 603
+  Expected File: image-603-80c9312d-6e09-4e56-a08f-c7f62c7f94c6.png
+  Prompt: Eastern fisherman repairing a net by a wooden boat, overcast sky
+  Created At: Fri Feb 06 2026 03:55:55 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 273
+  Expected File: image-273-5f6b4a4a-f53d-47c0-af21-8320728b41bf.jpg
+  Prompt: Silver craftswoman in a tiny workshop, faint sparks and metal tools
+  Created At: Mon Nov 17 2025 07:22:14 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 283
+  Expected File: image-283-c7923800-bbd2-4207-b7af-3fa7f19d0f7c.jpg
+  Prompt: Oud player on a small stage, velvet curtain and vintage mic
+  Created At: Mon Nov 17 2025 08:12:38 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 604
+  Expected File: image-604-0604e32c-250b-4ca3-9337-d74cd832ed34.png
+  Prompt: Software engineer in an abaya at UI board, sticky notes
+  Created At: Fri Feb 06 2026 03:56:27 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 605
+  Expected File: image-605-03e2c893-7dc4-4bd3-9f7b-bddf203e39c0.png
+  Prompt: Baker making tandoor bread at a rural market, soft flame
+  Created At: Fri Feb 06 2026 04:16:43 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 350
+  Expected File: image-350-6f86f70b-b3a4-42c3-9557-1c95f14e8281.jpg
+  Prompt: Woman in modern abaya working on laptop in a sleek café, soft bokeh
+  Created At: Wed Nov 26 2025 04:20:46 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 352
+  Expected File: image-352-3a026fde-80ea-4065-8c46-57221447a050.jpg
+  Prompt: Woman practicing yoga on a rooftop in Jeddah, distant sea
+  Created At: Wed Nov 26 2025 04:23:05 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 596
+  Expected File: image-596-894ea6cd-2d8d-4b3c-a64f-c876ea34075c.png
+  Prompt: Elegant man in a thobe in the glass lobby with towers, marble reflections
+  Created At: Wed Jan 28 2026 14:26:05 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 599
+  Expected File: image-599-c0d26835-a773-4d29-bdcc-ffa937791432.png
+  Prompt: A teacher before a smart board in an orderly class, attentive students
+  Created At: Fri Feb 06 2026 03:16:30 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 600
+  Expected File: image-600-b74c8918-c808-4bcc-ad8c-6c27b5b59529.png
+  Prompt: A woman arranging local flower bouquets in a small shop imagined the scent
+  Created At: Fri Feb 06 2026 03:17:18 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 502
+  Expected File: image-502-548335ac-9626-49a3-b6a2-393a69deefb6.png
+  Prompt: saudi coffee seller
+  Created At: Mon Dec 01 2025 09:27:00 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 539
+  Expected File: image-539-d0558add-793d-4391-8a25-624d433ea18a.png
+  Prompt: Translate the following text from unknown to English. Maintain the original meaning and tone: make a minimal logo that mixes the Arabic letters الفيا and make related to video
+
+English: make a minimal logo that mixes the Arabic letters الفيا and make it related to video
+  Created At: Mon Jan 05 2026 18:27:00 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 583
+  Expected File: image-1768741211435-6e0197bd-1d63-41b8-974c-f4b685340c5e.jpg
+  Prompt: Upscaled 2x
+  Created At: Sun Jan 18 2026 14:00:12 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 262
+  Expected File: image-262-c21eb383-5464-44e8-9a10-dadbdb797a3d.png
+  Prompt: Fashion designer pinning fabric on a mannequin in a minimal studio
+  Created At: Sun Nov 16 2025 15:30:58 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 267
+  Expected File: image-267-98623638-c082-4b56-bebb-42b4cfa282a0.jpg
+  Prompt: Silver craftswoman in a tiny workshop, faint sparks and metal tools
+  Created At: Sun Nov 16 2025 16:36:50 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 271
+  Expected File: image-271-af3c5b60-518b-4bca-a509-284596a77619.png
+  Prompt: A student with a backpack by a school bus, early morning
+  Created At: Sun Nov 16 2025 17:28:27 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 528
+  Expected File: image-528-a922cfcd-bea9-464a-915c-c9dda8b3d20a.png
+  Prompt: A Saudi man from Najd sits in the driver's seat of a black Yukon SUV, gazing out the window with calm, attentive poise. He wears a contemporary, clean-cut thobe with a tailored cut and a light jacket, reflecting a fusion of tradition and modern style. The vehicle’s interior is luxurious black leather, subtle chrome accents, and soft ambient lighting that enhances his features without overpowering the scene. The window offers a clear view of a sunlit urban desert road, or a sweeping horizon of sand and distant dunes, all bathed in golden-hour light.
+
+Composition emphasizes depth: a sharp foreground of the SUV’s interior details—the steering wheel, dashboard, and a faint reflection on the glass—midground with the man’s contemplative profile framed by the window, and a distant, sunlit landscape that blends city and desert silhouettes. The color palette leans warm and natural—deep blacks, warm ambers, sandy beiges, and cool steel blues to balance realism with cinematic tone. Lighting is natural and soft, casting long shadows, highlighting textures of skin, fabric, and leather with ultra-high detail and photorealistic clarity. The overall mood is quiet, introspective, and dignified, rendered in a refined cinematic realism style.
+  Created At: Thu Jan 01 2026 11:39:49 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 548
+  Expected File: image-32-3f20d528-edb6-4036-8ceb-5020e5afff6a.png
+  Prompt: Vertical 9:16 cinematic still of a modern Riyadh creative studio at golden afternoon. A young Saudi woman art director in a modern black abaya and light beige hijab sits at a wood desk, facing a blank tablet canvas. Warm sunbeams stream through geometric mashrabiya patterns, casting lattice shadows. Cluttered moodboard with Arabic sticky notes and color swatches on the wall. A smartphone on the desk glows with a subtle notification. Shallow depth of field, 35mm lens look, soft natural key light with warm edge light, crisp textures, minimalist modern furnishings, high-resolution, contemporary commercial aesthetic, uplifting mood.
+
+Style: 3D cartoon style, soft shading, round features, colorful, playful, Pixar-inspired
+  Created At: Wed Jan 07 2026 12:57:51 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 235
+  Expected File: image-235-e4b64d91-12b4-46a1-835f-e62fec693d9d.png
+  Prompt: a stunning woman from Assir in tradtional dress in a modern cafe
+  Created At: Sun Nov 09 2025 23:50:01 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 237
+  Expected File: image-237-a5c1b4a9-38de-4b90-97ea-746dbb7598f2.png
+  Prompt: A woman arranging local flower bouquets in a small shop imagined the scent
+  Created At: Mon Nov 10 2025 15:57:16 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 238
+  Expected File: image-238-11e1a4f8-0436-424c-9615-d12eda541a49.jpg
+  Prompt: Falconer holding a falcon on sand dunes at dawn, light dust Arabic calligrapher writing on thick paper, ink details and hands
+  Created At: Mon Nov 10 2025 15:59:09 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 541
+  Expected File: image-541-3b1d771a-1d23-417b-a463-95f0c92fc867.png
+  Prompt: Saudi female engineer with a helmet at a construction site with cranes behind, soft side light
+  Created At: Mon Jan 05 2026 18:30:50 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 280
+  Expected File: image-280-cb4139c8-1e0b-45d0-b383-7dff852414b1.png
+  Prompt: Software engineer in an abaya at UI board, sticky notes
+  Created At: Mon Nov 17 2025 08:10:01 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 542
+  Expected File: image-542-7cc272f4-d36a-4f8d-8490-d8a407f28c1c.png
+  Prompt: Free diver lifting a pearl near a boat, turquoise water shimmer
+  Created At: Tue Jan 06 2026 01:18:52 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 549
+  Expected File: image-31-8182b415-6d28-403d-9688-3cb9a3f4055e.png
+  Prompt: Vertical 9:16 macro still of a smartphone on a matte black desk with a stylus and color swatches nearby. On-screen: cehail + app UI with sleek glassmorphism panels, clear buttons: Images, Video, Storyboards. Prominent toggle labeled 'Saudi model' (النموذج السعودي) set to ON, glowing softly. Crisp typography, modern iconography, subtle brand cyan accent. Even softbox top-light, strong detail, no reflections, premium commercial look.
+
+Style: minimalist design, clean lines, simple shapes, limited color palette, modern aesthetic
+  Created At: Wed Jan 07 2026 12:59:03 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 287
+  Expected File: image-287-a53bd571-4a8e-4b75-ab9f-276ba0b8fac2.jpg
+  Prompt: a fat cat on a scooter, wearing a hat, none, smooth motion, cinematic
+  Created At: Mon Nov 17 2025 10:15:30 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 543
+  Expected File: image-543-29a6965c-5b01-4ce6-b792-f6b11abafb4b.png
+  Prompt: Eastern fisherman repairing a net by a wooden boat, overcast sky
+  Created At: Tue Jan 06 2026 01:47:07 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 308
+  Expected File: image-308-48470483-c8e8-4afe-8171-a9b220bb2e49.png
+  Prompt: A woman from najd in traditional attire
+  Created At: Tue Nov 25 2025 03:23:04 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 303
+  Expected File: image-303-346c4fa9-de62-434a-b883-222adc0771ca.png
+  Prompt: Design an infographic about how the air conditioner works.
+  Created At: Mon Nov 24 2025 17:35:41 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 379
+  Expected File: image-379-aa6b7066-79f4-41cb-93a3-4fe73877375a.png
+  Prompt: Falconer holding a falcon on sand dunes at dawn, light dust
+  Created At: Fri Nov 28 2025 06:18:27 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 378
+  Expected File: image-378-d50fbe74-3479-489e-949b-26aa1487617a.png
+  Prompt: Family picnicking in a green Asir valley, with low clouds
+  Created At: Fri Nov 28 2025 06:18:24 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 362
+  Expected File: image-362-c7dc625f-417c-454a-bada-3bb98901a6b1.png
+  Prompt: Woman practicing yoga on a rooftop in Jeddah, distant sea
+  Created At: Thu Nov 27 2025 10:37:45 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 363
+  Expected File: image-363-7e3231ff-b9af-4e35-992c-7966533fc2a1.png
+  Prompt: Bedouin with a camel near a black tent, coffee fire, starry sky
+  Created At: Thu Nov 27 2025 10:38:32 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 233
+  Expected File: image-233-ac36ebe9-1a01-4558-aa31-3fc42c7905b6.png
+  Prompt: Ultra-detailed, hyperrealistic portrait of pure Arab beauty: a captivating woman with smooth, sun-kissed skin, deep, dark almond-shaped eyes, long lashes, and full, sculpted lips. She wears a flowing silk hijab in a rich, jewel-toned color, softly framed by a delicately embroidered abaya or thobe, with subtle gold thread accents. The setting is a warm, golden hour desert glow; dust motes drift in the air, a faint breeze catching the fabric and turning it about her shoulders. Intricate gold jewelry—delicate filigree earrings, a slender necklace, and a few bangles—gleam softly. Her hands, adorned with elegant henna patterns, rest gracefully in view. The background hints at rolling dunes and a hint of blue-purple twilight, with cinematic shallow depth of field to keep focus on her serene, poised expression. Lighting is soft and directional, creating gentle highlights and matching the timeless, poetic atmosphere of timeless beauty.
+  Created At: Sun Nov 09 2025 15:25:48 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 234
+  Expected File: image-234-2f825545-8334-4fcc-b5bf-e0f1a192ea43.jpg
+  Prompt: Saudi cook stirring a large, gleaming kabsa pot in a cozy home kitchen, aromatic steam curling upward in spirals, rich with saffron golds and cumin browns. Hyperreal, photorealistic, ultra sharp, with natural morning light filtering through a window, creating soft halos around the steam and highlighting each grain of basmati, paprika dust, and sesame oil sheen. Close-up composition with shallow depth of field, the cook’s focused expression partially masked by steam, wooden spatula mid-stir, and the shimmering copper pot reflecting warm kitchen tones. 
+
+Scenes and details: tiled walls with intricate geometric patterns, a brass dallah and a string of dried citrus and spices on a rack, a woven rug at the feet, a wooden spice cabinet opened to reveal cardamom, cloves, and saffron threads. A table set with qatara cups, a bowl of dates, and a folded keffiyeh resting beside a clay tagine. The color palette blends warm ambers, saffron yellows, earthy browns, and subtle teal accents from ceramic tiles, creating a culturally rich atmosphere. The mood is intimate and ceremonial, as if a family meal is about to begin. Lighting emphasizes steam glints, textures of the cast-iron burner, the grain of the wooden spoon, and the gloss of the kabsa’s oil sheen. Cinematic, painterly realism with meticulous detail and authentic regional ambiance.
+  Created At: Sun Nov 09 2025 17:48:55 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 544
+  Expected File: image-544-cb8086ef-2036-454f-a679-0e8a9cfd8de2.png
+  Prompt: Ardah dancer holding a sword in a fest square, row of dancers behind
+  Created At: Tue Jan 06 2026 01:51:57 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 529
+  Expected File: image-529-b235be49-3983-41c6-a941-09d14c3fc09c.png
+  Prompt: A Saudi man from Najd sits in the driver's seat of a sleek black Yukon SUV, the city or desert highway slipping by outside as he gazes out the side window with calm, contemplative focus. The scene is photorealistic and richly detailed, capturing the texture of the leather seat, the subtle gleam of chrome accents, and the depth of morning light filtering through the window. Natural daylight pours in, casting warm highlights on his keffiyeh or traditional attire and balancing shadows with crisp, realistic colors. The interior frame is punctuated by reflections on the glass and the subtle dust motes in the sunbeam, suggesting motion and a moment of pause.
+
+In the midground, the SUV’s dashboard and steering wheel provide clear perspective lines, while the window reveals a landscape of the Najd region—rolling dunes or a distant urban silhouette—under a clear blue sky. The composition emphasizes the subject’s quiet dignity, with a shallow depth of field that keeps him as the focal point while softly rendering the exterior environment. The overall mood is cinematic, restrained, and authentic, with ultra-sharp detail, natural color grading, and a timeless, contemporary feel. Style: {{style}} if provided; otherwise, a refined cinematic realism with subtle filmic texture.
+  Created At: Thu Jan 01 2026 11:41:37 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 380
+  Expected File: image-380-d874013a-b3da-4564-a703-e07505361b92.png
+  Prompt: Saudi cook stirring kabsa in a home kitchen, aromatic steam
+  Created At: Fri Nov 28 2025 06:18:29 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 382
+  Expected File: image-382-f0ff6f92-1a60-4ae3-a593-1cf56b177e04.png
+  Prompt: Saudi cook stirring kabsa in a home kitchen, aromatic steam
+  Created At: Fri Nov 28 2025 06:20:10 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 383
+  Expected File: image-383-614cbc3d-51f3-4711-aa39-912071444dd4.png
+  Prompt: Doctor in white coat over an abaya in a modern clinic, calm smile
+  Created At: Fri Nov 28 2025 06:30:44 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 384
+  Expected File: image-384-70933570-7f9d-4eb7-8a57-0617b3b44bb4.png
+  Prompt: Doctor in white coat over an abaya in a modern clinic, calm smile
+  Created At: Fri Nov 28 2025 06:30:46 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 386
+  Expected File: image-386-59446865-3cc3-4bc8-9218-ad498fcbbe6c.png
+  Prompt: Doctor in white coat over an abaya in a modern clinic, calm smile
+  Created At: Fri Nov 28 2025 06:31:08 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 389
+  Expected File: image-389-4110aa5a-5d82-4f67-81f0-f86149046b1c.png
+  Prompt: Elegant man in a thobe in the glass lobby with towers, marble reflections
+  Created At: Sat Nov 29 2025 00:49:44 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 356
+  Expected File: image-356-804f0bdc-c6da-47af-95d3-be690f72367a.png
+  Prompt: You are a professional design model specialized in creating high-quality infographics.
+
+Your task:
+Given an input image that contains information (text, numbers, charts, bullet points, or diagrams), extract and understand the content, then redesign it as a single, clean, modern infographic.
+
+Language rules:
+- Detect the main language of the text in the input image.
+- The infographic MUST use the SAME language as the input (do not translate).
+- Do NOT add new information, data, claims, or examples that are not present in the original image.
+- You may shorten, group, or rephrase text slightly for clarity and layout, but never change the meaning or introduce new content.
+
+Visual and style requirements:
+- The output must be a FINAL, READY-TO-PUBLISH digital infographic (not a printed poster, not a mockup, not shown on any device).
+- Use a modern, sleek, minimal visual style with clean typography, good spacing, and strong visual hierarchy.
+- Use creative visual representation: icons, simple illustrations, symbols, and geometric shapes to represent the key ideas and sections, not just plain text and data.
+- 3D elements, depth, and subtle shadows are allowed, as long as the overall look remains clean and modern.
+- Do NOT show the original image inside the design. Reinterpret its CONTENT only.
+- No device frames, hands, desks, or environments. Show a flat, straight-on view of the final infographic.
+- Use a limited, harmonious color palette with good contrast between background and text.
+- Avoid busy or distracting backgrounds.
+
+Information design:
+- Focus on clarity, readability, and information structure: use headings, subheadings, short labels, icons, and simple shapes.
+- If the source image is dense or messy:
+  - Prioritize the most important information.
+  - Group related points into clear sections or blocks.
+  - Make the layout easy to scan with columns or modular sections.
+
+Creative direction:
+- Make the infographic highly creative and visually engaging, not just a plain dashboard of data and graphs.
+- Use layout, color, icons, and visual metaphors to turn the content into a compelling visual story.
+
+Your output is a single high-resolution infographic image, suitable for direct use in digital publishing or social media.
+  Created At: Wed Nov 26 2025 10:38:25 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 357
+  Expected File: image-357-6a6c5223-0449-441b-822f-ee1351a53882.png
+  Prompt: Professional vertical infographic design 4:5 ratio, for a LinkedIn post, in the style of a major business company. Light or white background, main colors dark blue with turquoise and light gray accents, flat design, clean, simple icons, modern clear Arabic font for all text.
+
+Text inside the design should be Arabic only, no English text:
+
+Top title:
+"بناء استراتيجية التواصل المؤسسي"
+
+Intro line under the title:
+"دليل مختصر للمدير لربط التواصل بأهداف المنظمة."
+
+Six vertically arranged steps on sequential cards with large numbers 1 to 6 and appropriate icons:
+
+Card 1:
+Title: "1. ابدأ من استراتيجية المنظمة"
+Short text: "ما الهدف الذي يجب أن يخدمه التواصل؟ سمعة، تغيير، جذب كفاءات، أو دعم مبادرة؟"
+
+Card 2:
+Title: "2. حدّد أصحاب المصلحة والجمهور"
+Short text: "صنّف الفئات الرئيسية، احتياجاتها، وما القنوات الأنسب لكل فئة."
+
+Card 3:
+Title: "3. صغ الرسائل الرئيسية"
+Short text: "رسائل واضحة، متسقة، تعكس هوية المنظمة وتجيب: ماذا نريد أن يفهموا ويشعروا ويفعلوا؟"
+
+Card 4:
+Title: "4. اختر القنوات والأدوات"
+Short text: "مزيج متوازن من قنوات داخلية وخارجية بحسب الجمهور: بريد، منصات داخلية، سوشال ميديا، فعاليات، تقارير."
+
+Card 5:
+Title: "5. نظّم الأدوار والحَوْكمة"
+Short text: "من يوافق؟ من يتحدث باسم المؤسسة؟ ما حدود الصلاحيات؟ وضوح الأدوار يقلّل المخاطر."
+
+Card 6:
+Title: "6. قِس وحنّ الاستراتيجية"
+Short text: "مؤشرات أداء، متابعة التفاعل، استبيانات ثقة الموظفين وأصحاب المصلحة، ثم تعديل مستمر."
+
+Below the cards, a side or wide block with a clear heading:
+Title: "دور المدير في إنجاح التواصل"
+Short points inside the block:
+"- كن قدوة في الشفافية والتواصل الداخلي."
+"- اربط كل رسالة بهدف أعمال واضح."
+"- ادعم فرق التواصل بالموارد والصلاحيات."
+
+Directly under this block, a smaller block titled:
+"أخطاء شائعة في التواصل المؤسسي"
+With three points:
+"- التواصل بدون هدف استراتيجي واضح."
+"- رسائل لا تطابق الواقع الفعلي للممارسات."
+"- غياب القياس والمتابعة بعد الحملة."
+
+At the bottom of the infographic, a prominent closing line:
+"التواصل المؤسسي ليس نشاطًا إعلاميًا فقط، بل أداة قيادة وتغيير."
+
+Maintain margins, good spacing between elements, strong color contrast for readability, and a serious, practical visual style suitable for managers on LinkedIn.
+  Created At: Wed Nov 26 2025 10:42:17 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 358
+  Expected File: image-358-d7692321-bf38-4d9f-9e84-4a20907e6fe4.png
+  Prompt: create an infograph of the main data in this link
+https://en.wikipedia.org/wiki/List_of_countries_by_oil_extraction
+  Created At: Wed Nov 26 2025 10:47:59 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 530
+  Expected File: image-530-c181344c-e2c5-4390-93a9-497b472d65c6.png
+  Prompt: A Saudi man from Najd steps out of a sleek black Yukon SUV, captured in cinematic, photorealistic detail. He wears a crisp white thobe with a tailored bisht over it and a traditional red-and-white ghutra, the fabric textures and embroidery rendered with ultra-real precision. The scene unfolds at golden hour, in a modern desert driveway framed by soft dunes and a distant city skyline, blending timeless heritage with contemporary luxury. The camera observes from a slightly low, three-quarter angle, placing the man in the foreground as the focal point, with the SUV angled to guide the eye toward him. Natural, warm sunlight sculpts his features and highlights the gleam on the black paint, while soft shadows add depth. The midground shows the Yukon’s panels and chrome accents with reflective realism, and the background hints at a quiet boulevard or upscale compounds, suggesting a moment of arrival or departure. The color palette emphasizes rich earth tones, deep blacks, pearly whites, and subtle metallic highlights, all rendered in high-detail, ultra-sharp clarity for a polished, lifelike cinematic portrait.
+  Created At: Thu Jan 01 2026 11:43:05 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 545
+  Expected File: image-545-2156829b-5d81-4e4c-9438-b837a2c4982b.png
+  Prompt: Bedouin with a camel near a black tent, coffee fire, starry sky
+  Created At: Tue Jan 06 2026 02:04:41 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 550
+  Expected File: image-34-fc3bc652-44a4-48ef-ba7d-6101d734c079.png
+  Prompt: Vertical 9:16 collage-style frame of authentic Saudi visuals: 1) Najdi mud-brick doorway in Diriyah with intricate wooden door; a Saudi man in a crisp white thobe and ghutra stands respectfully at the threshold. 2) A Saudi woman in a black abaya and elegant hijab walks through Jeddah Al-Balad alley of coral-stone buildings and green wooden roshan windows. 3) Macro of traditional Saudi coffee (gahwa) being poured from a golden dallah into finjal cups beside dates. 4) Red Sea waterfront at golden hour with a family in modest attire smiling, wind catching abayas and thobes. All elements sharply detailed, culturally accurate garments and settings, cinematic lighting, rich textures, premium commercial finish.
+
+Style: sketch, pencil drawing, monochrome, hand-drawn lines, minimalist detail
+  Created At: Wed Jan 07 2026 13:07:13 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 595
+  Expected File: image-595-741b7255-0aaf-46c7-9b21-b32f896c7623.png
+  Prompt: mix those both
+  Created At: Wed Jan 28 2026 14:16:55 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 367
+  Expected File: image-367-f5a70d98-5028-4b34-a010-9bb6d8dbc2fc.png
+  Prompt: Bedouin with a camel near a black tent, coffee fire, starry sky
+  Created At: Thu Nov 27 2025 11:55:24 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 390
+  Expected File: image-390-30d4c125-a536-4483-af9c-ce1ba647a846.png
+  Prompt: Elegant man in a thobe in the glass lobby with towers, marble reflections
+  Created At: Sat Nov 29 2025 00:49:48 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 391
+  Expected File: image-391-8f451f82-86ce-4e13-ad49-6f8321d8d4af.png
+  Prompt: Doctor in white coat over an abaya in a modern clinic, calm smile
+  Created At: Sat Nov 29 2025 00:50:11 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 531
+  Expected File: image-531-be1a3283-e532-4717-8755-3a29cd5555d8.png
+  Prompt: A modern Saudi man from Najd steps out of a sleek black Yukon SUV, captured in photorealistic, ultra-detailed realism. He stands poised at the edge of the open driver's side, one foot planted on the curb and the other still inside the vehicle, as if surveying the scene ahead. He wears a crisp, tailored thobe with a contemporary cut, a lightweight bisht draped over one shoulder, and polished dress shoes that gleam in natural light. The setting is a sunlit urban street in a Najdi cityscape, blending warm desert tones with modern architecture and palm shadows. 
+
+Foreground features a clean, textured pavement and a hint of a busy boulevard, midground shows the man emerging with confident posture, hands relaxed, gaze forward. Background reveals a low-rise skyline, subtle traffic, and a soft, hazy horizon. The lighting is natural and cinematic—golden hour glow, soft reflections on the Yukon’s surface, and realistic skin tones with meticulous detail. Colors are true-to-life: deep black SUV, contrasting white thobe, earthy browns and ochres of the street, and a hint of blue in the sky. Style: hyperrealistic, cinematic realism with high-detail textures and natural, balanced contrast.
+  Created At: Thu Jan 01 2026 11:44:40 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 551
+  Expected File: image-36-f59dffd9-af65-4289-ba34-e91ff6bd6423.png
+  Prompt: Vertical 9:16 still frame of a falcon gliding low over sculpted desert dunes at golden hour in Saudi Arabia. Warm sunlight rims the bird's feathers; sand ripples in precise texture; long shadows shape the dunes. Telephoto compression (70mm look), smooth bokeh on distant dunes, cinematic color with warm highlights and cool shadows, crisp, premium commercial clarity.
+
+Style: photorealistic, high detail, ultra sharp, natural lighting, realistic colors
+  Created At: Wed Jan 07 2026 13:10:04 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 553
+  Expected File: image-553-aef8cb80-7f66-4fbb-a8e2-39aff15cca5e.png
+  Prompt: Young man sitting on a cliff edge in AlUla, towering rocks, sunset
+  Created At: Wed Jan 07 2026 20:16:52 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 396
+  Expected File: image-396-76b50ae0-09ba-40e8-8330-af8e1db99681.png
+  Prompt: Fashion designer pinning fabric on a mannequin in a minimal studio
+  Created At: Sat Nov 29 2025 00:52:50 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 572
+  Expected File: image-572-5fdbc398-cde6-4a05-aab5-56b4323a500e.png
+  Prompt: Eastern fisherman repairing a net by a wooden boat, overcast sky
+  Created At: Fri Jan 16 2026 00:49:23 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 573
+  Expected File: image-573-d000d28b-671f-4697-98fe-f6f34991bdf6.png
+  Prompt: Baker making tandoor bread at a rural market, soft flame
+  Created At: Fri Jan 16 2026 00:50:17 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 598
+  Expected File: image-598-64b89629-f273-4e11-850a-e8c944dae80a.png
+  Prompt: Falconer holding a falcon on sand dunes at dawn, light dust ,Elegant man in a thobe in the glass lobby with towers, marble reflections
+  Created At: Thu Feb 05 2026 18:42:31 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 401
+  Expected File: image-401-0ca3e7a2-5b38-494f-a950-7ad94a6dd182.png
+  Prompt: Bedouin with a camel near a black tent, coffee fire, starry sky
+  Created At: Sat Nov 29 2025 01:33:35 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 402
+  Expected File: image-402-094a813c-5dcb-47dc-b318-61b893759fb7.png
+  Prompt: Date seller at a traditional market, colorful baskets, natural light
+  Created At: Sat Nov 29 2025 01:33:44 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 403
+  Expected File: image-403-aed96d98-e1b7-4ede-9181-45656d6e8f4f.png
+  Prompt: Elegant man in a thobe in the glass lobby with towers, marble reflections
+  Created At: Sat Nov 29 2025 01:35:34 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 404
+  Expected File: image-404-adf7a37f-fa86-4dd7-a8e8-2c5c00ef9f8c.png
+  Prompt: A woman arranging local flower bouquets in a small shop imagined the scent
+  Created At: Sat Nov 29 2025 01:35:35 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 532
+  Expected File: image-532-d6b25874-8bed-4755-8fc6-8b9053e27e49.png
+  Prompt: modren SAUDI MAN FROM NAJD coming out of a black Yukon SUV
+  Created At: Thu Jan 01 2026 11:50:30 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 533
+  Expected File: image-533-77a15f9c-33b3-4843-9f14-0e4efb1cc9c2.png
+  Prompt: a saudi modern man from Najd fixing his shmagh
+  Created At: Thu Jan 01 2026 16:37:03 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 546
+  Expected File: image-12-a6ffbee1-0986-4694-9b61-73dc810e0364.png
+  Prompt: Cinematic still frame, modern urban kitchen bathed in warm morning light: high three-quarter angle composition over a white marble counter with subtle gray veining. In the lower right third, a pristine white porcelain demitasse sits on a matte black saucer; rich, mottled crema with faint tiger striping fills the cup. A minimal Volt Espresso logo is subtly debossed near the lip of the cup, tone-on-tone. A polished demitasse spoon rests at the saucer’s 11 o’clock, its convex bowl catching a crisp reflection of the protagonist’s eyes—bright, alert, and centered in the tiny mirror-like oval. Upper left third: a sleek, brushed-chrome espresso machine intrudes into frame, side panel facing the viewer with a discreet Volt Espresso badge inset and softly catching the light. The portafilter lies on a folded gray microfiber cloth beside the cup, metal surface clean and reflective. Golden sunlight streams through horizontal blinds, casting precise amber bands across the marble, cup, and machine, with darker stripes creating contrast on a white subway-tile backsplash. Steam from the cup is suspended in delicate, illuminated threads against the shadowed tiles, most visible where light slats intersect. Background elements fall into soft focus: a concrete window ledge with a small potted basil, the faint silhouette of neighboring rooftops beyond the glass. Color palette: warm golds, cool chromes, porcelain whites, and charcoal accents. Depth of field isolates the cup, spoon reflection, and machine badge as the primary plane of attention. Staging emphasizes diagonals from badge to crema to spoon reflection, uniting brand, craft, and spark. Energetic, modern, meticulously composed. 16:9.
+
+Style: 3D cartoon style, soft shading, round features, colorful, playful, Pixar-inspired
+  Created At: Tue Jan 06 2026 18:51:12 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 552
+  Expected File: image-33-fe4090ec-7cfc-47af-994f-e40f6c07d7d8.png
+  Prompt: Vertical 9:16 overhead of a bright lightbox desk with neatly printed storyboard frames in black-and-white line art. Margins labeled with shot numbers and bilingual notes (e.g., 'CU' and 'قريب جداً'). A hand with a fine liner pen and translucent sticky notes annotates timing. A tablet shows an animatic timeline; coffee cup and color pencils nearby. Clean, high-detail, modern production design, soft shadows, premium commercial aesthetic.
+
+Style: surrealism, dreamlike, unexpected juxtapositions, imaginative, abstract elements
+  Created At: Wed Jan 07 2026 13:40:12 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 592
+  Expected File: image-592-5d25370e-6685-4211-bf67-bbdccc7d0af7.png
+  Prompt: a saudi modern man from Najd fixing his shmagh, photographed with a mix of soft studio light and ambient location lighting. The styling is sleek, modern, and inspired by luxury fashion magazines. The pose is bold, graceful, and full of attitude, highlighting strong body language and expressive movement, The composition features shallow depth of field, sharp focus, and dramatic camera angles for a cinematic effect. The background is clean, elegant, and on-brand with the fashion theme—enhancing the mood, not distracting from it. The final image is glossy, high-resolution, and magazine-ready
+  Created At: Tue Jan 27 2026 17:37:20 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 469
+  Expected File: image-469-fe400d56-5196-4763-ad36-dbd0018b958b.png
+  Prompt: Customs officer checking documents at a modern airport, traveler motion
+  Created At: Sat Nov 29 2025 05:12:41 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 471
+  Expected File: image-471-059934b7-e8d3-4589-bfa3-4f55f59b6f59.png
+  Prompt: Woman in modern abaya working on laptop in a sleek café, soft bokeh
+  Created At: Sat Nov 29 2025 05:12:45 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 534
+  Expected File: image-534-e80ef851-3ebf-48c3-a050-702280696aa3.png
+  Prompt: a saudi modern man from Najd fixing his shmagh, photographed with a mix of soft studio light and ambient location lighting. The styling is sleek, modern, and inspired by luxury fashion magazines. The pose is bold, graceful, and full of attitude, highlighting strong body language and expressive movement, The composition features shallow depth of field, sharp focus, and dramatic camera angles for a cinematic effect. The background is clean, elegant, and on-brand with the fashion theme—enhancing the mood, not distracting from it. The final image is glossy, high-resolution, and magazine-ready
+  Created At: Thu Jan 01 2026 16:39:08 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 473
+  Expected File: image-473-65fe3abf-4951-4c5a-9da5-581b8faf1890.png
+  Prompt: Woman tasting Saudi coffee in a modern majlis, dallah and incense
+  Created At: Sat Nov 29 2025 05:12:59 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 474
+  Expected File: image-474-a9a611a4-a623-4082-9db0-da42f126138a.png
+  Prompt: Saudi female astronaut in training simulator, blinking controls
+  Created At: Sat Nov 29 2025 05:13:41 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 475
+  Expected File: image-475-80baa201-fed3-4423-b7ba-7678b0875e96.png
+  Prompt: Najdi man in thobe and shemagh walking among palm trees at sunrise, editorial realistic
+  Created At: Sat Nov 29 2025 05:18:04 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 476
+  Expected File: image-476-1e5ae9f6-6aa0-4d6d-b876-3823279f7321.png
+  Prompt: Bedouin with a camel near a black tent, coffee fire, starry sky
+  Created At: Sat Nov 29 2025 05:18:07 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 478
+  Expected File: image-478-b2daff3c-e62e-49a5-b93e-14da166e60aa.png
+  Prompt: Saudi female photographer with camera in Jeddah’s historic alleys, geometric shadows
+  Created At: Sat Nov 29 2025 05:18:17 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 479
+  Expected File: image-479-f5f48340-feaf-4b02-a305-f1f6bead0ff7.png
+  Prompt: Family picnicking in a green Asir valley, with low clouds
+  Created At: Sat Nov 29 2025 05:18:24 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 497
+  Expected File: image-497-8ddcd176-06da-4e68-8a33-29cea7002267.png
+  Prompt: A woman from Najd in traditional attire by an old mudhouse
+  Created At: Sun Nov 30 2025 15:45:01 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 535
+  Expected File: image-535-18ee5878-6ff9-4183-adcb-b44222623746.png
+  Prompt: a saudi modern man from Najd fixing his shmagh, photographed with a mix of soft studio light and ambient location lighting. The styling is sleek, modern, and inspired by luxury fashion magazines. The pose is bold, graceful, and full of attitude, highlighting strong body language and expressive movement, The composition features shallow depth of field, sharp focus, and dramatic camera angles for a cinematic effect. The background is clean, elegant, and on-brand with the fashion theme—enhancing the mood, not distracting from it. The final image is glossy, high-resolution, and magazine-ready
+  Created At: Thu Jan 01 2026 16:43:02 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 575
+  Expected File: image-575-17423557-7b6d-4529-8e65-c1216cb5a29e.png
+  Prompt: Coffee seller with dallah and cups at a heritage corner, rising steam, subtle green tint
+  Created At: Fri Jan 16 2026 01:21:59 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 501
+  Expected File: image-501-f10aeade-332e-4cba-81de-c0f586037fb7.png
+  Prompt: saudi coffee seller
+  Created At: Mon Dec 01 2025 09:26:06 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 597
+  Expected File: image-1769611060660-43bdf6ca-c00c-4677-8594-b03fd2f57c95.jpg
+  Prompt: Upscaled 2x
+  Created At: Wed Jan 28 2026 15:37:43 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 505
+  Expected File: image-505-fc0f4716-155f-42eb-92cb-f90ccc65b8d1.png
+  Prompt: A Hijazi man at the airport.
+  Created At: Mon Dec 01 2025 11:13:11 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 506
+  Expected File: image-506-1a300e91-c3a8-4866-be69-8bba38b89692.png
+  Prompt: A Saudi man at the airport
+  Created At: Mon Dec 01 2025 11:13:48 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 507
+  Expected File: image-507-d36183c7-f5f9-4060-ac7e-80baa0815fe2.png
+  Prompt: A man from Asir in traditional dress picking pomegranates from the tree.
+  Created At: Mon Dec 01 2025 11:16:47 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 508
+  Expected File: image-508-e40898d3-7209-420b-bfa0-c7b47e5df93e.png
+  Prompt: Generate a new, unique image based on the style of clothes in the referenced images. A Saudi man in Asiri attire stands in a sunlit field, tending pomegranate trees. In a corner, a bountiful harvest lies on the ground, symbolizing prosperity and Saudi agricultural self-sufficiency. The scene features rich textures in clothing, trees, and fruit, with photorealistic, high-detail rendering and cinematic lighting. Generate new and original faces, not from the reference images or any training data.
+  Created At: Mon Dec 01 2025 11:20:30 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 509
+  Expected File: image-509-16b26a04-ad0d-4b2d-9ca7-a7a51f7ed66b.png
+  Prompt: A Saudi najdi man at the airport
+  Created At: Mon Dec 01 2025 13:42:17 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 510
+  Expected File: image-510-cf753997-1d2e-470b-9c09-6acea5dd835f.png
+  Prompt: A Saudi najdi man at the airport
+  Created At: Tue Dec 02 2025 09:29:17 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 511
+  Expected File: image-511-07f6804b-aea8-4cfe-8c45-ecfe3378e267.png
+  Prompt: A Saudi najdi man at the airport
+  Created At: Tue Dec 02 2025 09:30:55 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 512
+  Expected File: image-512-4d32495d-29fe-4451-b554-9be7f20e329a.png
+  Prompt: A Saudi najdi man at the airport
+  Created At: Tue Dec 02 2025 09:38:27 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 513
+  Expected File: image-513-6950c667-94ec-4b44-af17-4772fe488d14.png
+  Prompt: A Najdi man near the Tor Tower (Torquia/Tagh Tawd) Mountain.
+
+Note: "جبل طويق" refers to the Takiyah/Tuaik Mountains in the Arabian Peninsula; commonly transliterated as "Jabal Tuwayq" or "Tor Tower" depending on spelling. The phrase: "رجل نجدي عند جبل طويق" translates to "A Najdi man near the Tor (Tuwayq) Mountain."
+  Created At: Tue Dec 02 2025 09:40:49 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 514
+  Expected File: image-514-d79b95a6-5161-4df9-8745-3b6ee2df4b3d.png
+  Prompt: SAUDI MAN FROM NAJD AT A SUSHI RESTURANT
+  Created At: Tue Dec 02 2025 09:42:44 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 515
+  Expected File: image-515-a788f96b-e472-47d2-9c3c-ae629b74860b.png
+  Prompt: SAUDI MAN FROM NAJD AT A cafe
+  Created At: Tue Dec 02 2025 10:10:38 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 516
+  Expected File: image-516-bf28cdf6-aef9-4b8a-bae2-f4c5001f5ed3.png
+  Prompt: Family picnicking in a green Asir valley, with low clouds
+  Created At: Tue Dec 02 2025 15:08:13 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 517
+  Expected File: image-517-e5366b7f-6cca-404b-baa4-c5b98d540bd3.png
+  Prompt: Family picnicking in a green Asir valley, with low clouds
+  Created At: Sun Dec 14 2025 23:43:58 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 536
+  Expected File: image-536-7d7364be-d175-425c-98f2-4ae7c9f5ebb1.png
+  Prompt: a saudi modern man from Najd fixing his shmagh, photographed with a mix of soft studio light and ambient location lighting. The styling is sleek, modern, and inspired by luxury fashion magazines. The pose is bold, graceful, and full of attitude, highlighting strong body language and expressive movement, The composition features shallow depth of field, sharp focus, and dramatic camera angles for a cinematic effect. The background is clean, elegant, and on-brand with the fashion theme—enhancing the mood, not distracting from it. The final image is glossy, high-resolution, and magazine-ready
+  Created At: Thu Jan 01 2026 16:43:02 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 576
+  Expected File: image-576-dddc9d6f-7288-411b-95ca-a74ab5ab7758.png
+  Prompt: Esports player with pro headset at screen, subtle glow
+  Created At: Fri Jan 16 2026 01:35:05 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 578
+  Expected File: image-1768735831141-ebe4b381-73ad-4ec1-bc16-8f8b1f1b3250.jpg
+  Prompt: Upscaled 2x
+  Created At: Sun Jan 18 2026 12:30:32 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 524
+  Expected File: image-524-03f0512b-95d6-4937-9209-0d74040f7f6a.png
+  Prompt: Saudi cook stirring kabsa in a home kitchen, aromatic steam
+  Created At: Wed Dec 31 2025 12:10:53 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 525
+  Expected File: image-525-6fdbde7d-fe16-4df2-abfb-6dd73daec4a1.png
+  Prompt: Saudi cook stirring kabsa in a home kitchen, aromatic steam
+  Created At: Wed Dec 31 2025 12:12:17 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 579
+  Expected File: image-1768738205524-9ca9b6f7-4153-40e7-b4ea-da72a3ed0f61.jpg
+  Prompt: Upscaled 2x
+  Created At: Sun Jan 18 2026 13:10:06 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 580
+  Expected File: image-1768740680380-38d66fa7-648a-496a-abeb-71cae153151e.jpg
+  Prompt: Upscaled 2x
+  Created At: Sun Jan 18 2026 13:51:21 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 593
+  Expected File: image-32-413583f9-88a2-41d3-b032-34f5d7804c06.png
+  Prompt: Vertical 9:16 cinematic still of a modern Riyadh creative studio at golden afternoon. A young Saudi woman art director in a modern black abaya and light beige hijab sits at a wood desk, facing a blank tablet canvas. Warm sunbeams stream through geometric mashrabiya patterns, casting lattice shadows. Cluttered moodboard with Arabic sticky notes and color swatches on the wall. A smartphone on the desk glows with a subtle notification. Shallow depth of field, 35mm lens look, soft natural key light with warm edge light, crisp textures, minimalist modern furnishings, high-resolution, contemporary commercial aesthetic, uplifting mood.
+
+Style: photorealistic, high detail, ultra sharp, natural lighting, realistic colors
+  Created At: Tue Jan 27 2026 17:58:13 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 526
+  Expected File: image-526-58c9640f-1779-4231-8fbc-3ba7e57f80e3.png
+  Prompt: A Saudi girl from Jeddah stands poised on a windswept rock at the edge of the sea, as towering waves crash against the rugged shoreline behind her. She gazes toward the horizon with calm confidence, her posture capturing both strength and grace. The scene unfolds at golden hour, when warm sunlight slants across the water, casting glints on wet stone and bringing natural skin tones to life with soft, realistic shadows. The sea breathes with deep blues and emerald greens, while the spray from the breaking surf adds a fine mist that enhances depth and atmosphere.
+
+Composition emphasizes a layered view: a textured foreground rock leading to the girl as the focal point in the midground, and a dynamic, foaming sea and turbulent waves in the background. The lighting is natural and flattering, highlighting subtle details in her clothing and face, while preserving authentic, understated color harmony. The overall style blends hyperrealistic photographic fidelity with cinematic mood, delivering a production-quality image that feels both intimate and expansive.
+  Created At: Thu Jan 01 2026 10:33:03 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 527
+  Expected File: image-527-2ef842f9-1fda-49d3-82c5-32e23b2c3527.png
+  Prompt: A Saudi girl from Jeddah stands barefoot on a weathered coastal rock, facing the open sea as colossal waves crash against the jagged rocks behind her. Her hijab and hair are tousled by the wind, a calm, determined expression on her face, embodying quiet resilience. In the foreground, textured stone, salt-streaked and damp, holds small puddles that reflect the sky. The midground centers the figure with natural clothing folds and subtle color variations rendered in hyperreal detail. The background bursts with churning water, sea spray, and a dramatic horizon under a clear, late-afternoon sky. Natural lighting bathes the scene in warm golden tones, creating high contrast and vivid, realistic colors—deep blues of the sea, earthy browns of the rocks, and the soft glow on her skin. The composition uses a low, three-quarter view to emphasize the rugged shoreline, with leading lines from the rock edge guiding the eye to the figure and outward to the vast sea. Style: cinematic photorealism with meticulous texture, crisp micro-details, and natural color grading to evoke awe at nature and strength in stillness.
+  Created At: Thu Jan 01 2026 10:34:56 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 537
+  Expected File: image-537-c4ebf1bf-837d-42c3-8b84-fec590b464b3.png
+  Prompt: A high-fashion editorial portrait of saudi police man photographed with a mix of soft studio light and ambient location lighting, highlighting strong body language and expressive movement. The composition features shallow depth of field, sharp focus, and dramatic camera angles for a cinematic effect. The background is clean, elegant, and on-brand with the fashion theme—enhancing the mood, not distracting from it. The final image is glossy, high-resolution, and magazine-ready
+  Created At: Thu Jan 01 2026 17:51:28 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 538
+  Expected File: image-538-9aec34c9-d426-4813-ba9f-575da0e11dd4.png
+  Prompt: Bedouin with a camel near a black tent, coffee fire, starry sky
+  Created At: Fri Jan 02 2026 02:16:03 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 547
+  Expected File: image-12-e042c7ed-aa84-44ec-8c5a-d8f9c93af0e5.jpg
+  Prompt: Cinematic still frame, modern urban kitchen bathed in warm morning light: high three-quarter angle composition over a white marble counter with subtle gray veining. In the lower right third, a pristine white porcelain demitasse sits on a matte black saucer; rich, mottled crema with faint tiger striping fills the cup. A minimal Volt Espresso logo is subtly debossed near the lip of the cup, tone-on-tone. A polished demitasse spoon rests at the saucer’s 11 o’clock, its convex bowl catching a crisp reflection of the protagonist’s eyes—bright, alert, and centered in the tiny mirror-like oval. Upper left third: a sleek, brushed-chrome espresso machine intrudes into frame, side panel facing the viewer with a discreet Volt Espresso badge inset and softly catching the light. The portafilter lies on a folded gray microfiber cloth beside the cup, metal surface clean and reflective. Golden sunlight streams through horizontal blinds, casting precise amber bands across the marble, cup, and machine, with darker stripes creating contrast on a white subway-tile backsplash. Steam from the cup is suspended in delicate, illuminated threads against the shadowed tiles, most visible where light slats intersect. Background elements fall into soft focus: a concrete window ledge with a small potted basil, the faint silhouette of neighboring rooftops beyond the glass. Color palette: warm golds, cool chromes, porcelain whites, and charcoal accents. Depth of field isolates the cup, spoon reflection, and machine badge as the primary plane of attention. Staging emphasizes diagonals from badge to crema to spoon reflection, uniting brand, craft, and spark. Energetic, modern, meticulously composed. 16:9.
+
+Style: 3D cartoon style, soft shading, round features, colorful, playful, Pixar-inspired
+  Created At: Tue Jan 06 2026 18:52:00 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 561
+  Expected File: image-561-d2dbd326-49c0-4312-8778-654eb1b0f25e.png
+  Prompt: Young man sitting on a cliff edge in AlUla, towering rocks, sunset
+  Created At: Tue Jan 13 2026 11:35:05 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 562
+  Expected File: image-562-a149a5b1-c7fe-4d32-99c6-21a83d3b90c1.png
+  Prompt: a man on cliff
+  Created At: Wed Jan 14 2026 12:54:19 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+ID: 581
+  Expected File: image-1768740781986-62ba2f4f-6b07-4652-b6a6-c70e49eac996.jpg
+  Prompt: Upscaled 2x
+  Created At: Sun Jan 18 2026 13:53:03 GMT+0100 (Central European Standard Time)
+--------------------------------------------------
+
+Total Missing Files: 124

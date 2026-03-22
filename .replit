@@ -1,0 +1,62 @@
+modules = ["nodejs-20", "postgresql-16"]
+run = "npm run dev"
+
+hidden = [".config", ".git", "generated-icon.png", "node_modules", "dist"]
+
+[nix]
+channel = "stable-24_05"
+packages = ["ffmpeg"]
+
+[deployment]
+deploymentTarget = "autoscale"
+build = ["npm", "run", "build"]
+run = ["node", "./dist/index.cjs"]
+
+[workflows]
+runButton = "Project"
+
+[[workflows.workflow]]
+name = "Project"
+mode = "parallel"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "Start application"
+
+[[workflows.workflow]]
+name = "Start application"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "npx tsx -r dotenv/config server/index.ts"
+waitForPort = 5000
+
+[workflows.workflow.metadata]
+outputType = "webview"
+
+[agent]
+integrations = ["javascript_database:1.0.0", "javascript_object_storage:1.0.0", "resend:1.0.0"]
+
+[[ports]]
+localPort = 5000
+externalPort = 80
+
+[[ports]]
+localPort = 5173
+externalPort = 5173
+
+[[ports]]
+localPort = 5174
+
+[[ports]]
+localPort = 5175
+
+[objectStorage]
+defaultBucketID = "replit-objstore-0b162633-bdb9-4cd6-9907-5a87dd39de7d"
+
+[userenv]
+
+[userenv.shared]
+__VITE_ADDITIONAL_SERVER_ALLOWED_HOSTS = ".replit.dev,.janeway.replit.dev"

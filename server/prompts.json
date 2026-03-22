@@ -1,0 +1,366 @@
+[
+  {
+    "Category": "Nature & Landscapes",
+    "Prompt": "A vibrant wildflower meadow stretching to the horizon under a bright blue sky."
+  },
+  {
+    "Category": "Nature & Landscapes",
+    "Prompt": "A tranquil lake reflecting autumn trees in full color."
+  },
+  {
+    "Category": "Nature & Landscapes",
+    "Prompt": "Rolling green hills dotted with sheep beneath dramatic storm clouds."
+  },
+  {
+    "Category": "Nature & Landscapes",
+    "Prompt": "A frozen waterfall cascading down icy rocks in winter."
+  },
+  {
+    "Category": "Nature & Landscapes",
+    "Prompt": "A narrow canyon with turquoise water flowing through sunlit cliffs."
+  },
+  {
+    "Category": "Nature & Landscapes",
+    "Prompt": "Majestic mountain peaks above a sea of clouds at sunrise."
+  },
+  {
+    "Category": "Nature & Landscapes",
+    "Prompt": "A peaceful Japanese garden with a red bridge over a koi pond."
+  },
+  {
+    "Category": "Nature & Landscapes",
+    "Prompt": "Desert dunes under a starry night sky, with the Milky Way visible."
+  },
+  {
+    "Category": "Nature & Landscapes",
+    "Prompt": "Cherry blossom trees in full bloom along a quiet riverbank."
+  },
+  {
+    "Category": "Nature & Landscapes",
+    "Prompt": "A secluded tropical beach with crystal-clear water and swaying palm trees."
+  },
+  {
+    "Category": "Nature & Landscapes",
+    "Prompt": "Lavender fields at sunset with purple flowers stretching to the horizon."
+  },
+  {
+    "Category": "Nature & Landscapes",
+    "Prompt": "A serene bamboo forest with shafts of light filtering through the tall stalks."
+  },
+  {
+    "Category": "Nature & Landscapes",
+    "Prompt": "A small cabin nestled in snowy pine woods, smoke rising from the chimney."
+  },
+  {
+    "Category": "Nature & Landscapes",
+    "Prompt": "An enchanted forest path lined with glowing mushrooms."
+  },
+  {
+    "Category": "Nature & Landscapes",
+    "Prompt": "A dramatic coastal cliff with waves crashing against the rocks."
+  },
+  {
+    "Category": "Animals & Wildlife",
+    "Prompt": "A wise owl perched on a mossy branch in a moonlit forest."
+  },
+  {
+    "Category": "Animals & Wildlife",
+    "Prompt": "A playful dolphin leaping out of sparkling ocean water."
+  },
+  {
+    "Category": "Animals & Wildlife",
+    "Prompt": "A group of penguins huddling together on icy terrain."
+  },
+  {
+    "Category": "Animals & Wildlife",
+    "Prompt": "A graceful deer standing in a misty morning meadow."
+  },
+  {
+    "Category": "Animals & Wildlife",
+    "Prompt": "A tiny frog sitting on a floating lily pad in a pond."
+  },
+  {
+    "Category": "Animals & Wildlife",
+    "Prompt": "A majestic white horse running across a green field."
+  },
+  {
+    "Category": "Animals & Wildlife",
+    "Prompt": "A colorful butterfly resting on a blooming flower."
+  },
+  {
+    "Category": "Animals & Wildlife",
+    "Prompt": "A family of ducks swimming peacefully across a calm lake."
+  },
+  {
+    "Category": "Animals & Wildlife",
+    "Prompt": "A red fox peeking out from behind golden autumn leaves."
+  },
+  {
+    "Category": "Animals & Wildlife",
+    "Prompt": "A pair of curious meerkats standing alert in a sandy desert."
+  },
+  {
+    "Category": "Animals & Wildlife",
+    "Prompt": "A giant turtle gliding over a coral reef teeming with fish."
+  },
+  {
+    "Category": "Animals & Wildlife",
+    "Prompt": "A bear catching a salmon in a rushing mountain stream."
+  },
+  {
+    "Category": "Animals & Wildlife",
+    "Prompt": "A hummingbird hovering near a cluster of wildflowers."
+  },
+  {
+    "Category": "Animals & Wildlife",
+    "Prompt": "A sleepy kitten curled up in a sunbeam."
+  },
+  {
+    "Category": "Animals & Wildlife",
+    "Prompt": "A vibrant peacock spreading its feathers in a garden."
+  },
+  {
+    "Category": "Fantasy & Magical Scenes",
+    "Prompt": "A glowing portal in an ancient forest surrounded by magical runes."
+  },
+  {
+    "Category": "Fantasy & Magical Scenes",
+    "Prompt": "A village of tiny treehouses built in enormous mushrooms."
+  },
+  {
+    "Category": "Fantasy & Magical Scenes",
+    "Prompt": "A wizard's tower filled with floating books and swirling potions."
+  },
+  {
+    "Category": "Fantasy & Magical Scenes",
+    "Prompt": "A crystal cave with sparkling gems embedded in the walls."
+  },
+  {
+    "Category": "Fantasy & Magical Scenes",
+    "Prompt": "A dragon sleeping on a pile of gold treasure in a dark cave."
+  },
+  {
+    "Category": "Fantasy & Magical Scenes",
+    "Prompt": "A fairy garden with glowing flowers and tiny winged creatures."
+  },
+  {
+    "Category": "Fantasy & Magical Scenes",
+    "Prompt": "A magical library with books that glow and float through the air."
+  },
+  {
+    "Category": "Fantasy & Magical Scenes",
+    "Prompt": "A phoenix rising from flames against a backdrop of burning embers."
+  },
+  {
+    "Category": "Fantasy & Magical Scenes",
+    "Prompt": "A knight in shining armor standing before an ancient castle."
+  },
+  {
+    "Category": "Fantasy & Magical Scenes",
+    "Prompt": "A unicorn drinking from a moonlit spring in an enchanted glade."
+  },
+  {
+    "Category": "Fantasy & Magical Scenes",
+    "Prompt": "A mermaid sitting on a rock in a hidden underwater grotto."
+  },
+  {
+    "Category": "Fantasy & Magical Scenes",
+    "Prompt": "A steampunk airship sailing through clouds above a Victorian city."
+  },
+  {
+    "Category": "Fantasy & Magical Scenes",
+    "Prompt": "An elven village built in the canopy of a giant tree."
+  },
+  {
+    "Category": "Fantasy & Magical Scenes",
+    "Prompt": "A magical potion brewing in a cauldron with colorful smoke rising."
+  },
+  {
+    "Category": "Fantasy & Magical Scenes",
+    "Prompt": "A floating island connected to others by glowing bridges."
+  },
+  {
+    "Category": "Abstract & Artistic",
+    "Prompt": "Swirling galaxies of color blending in a cosmic dance."
+  },
+  {
+    "Category": "Abstract & Artistic",
+    "Prompt": "Geometric patterns forming a kaleidoscope of brilliant hues."
+  },
+  {
+    "Category": "Abstract & Artistic",
+    "Prompt": "Flowing ribbons of light weaving through a dark void."
+  },
+  {
+    "Category": "Abstract & Artistic",
+    "Prompt": "A splash of watercolor paint creating organic, flowing shapes."
+  },
+  {
+    "Category": "Abstract & Artistic",
+    "Prompt": "Crystalline structures reflecting rainbows of refracted light."
+  },
+  {
+    "Category": "Abstract & Artistic",
+    "Prompt": "Smoke patterns curling into intricate, ethereal forms."
+  },
+  {
+    "Category": "Abstract & Artistic",
+    "Prompt": "A tapestry of interwoven threads in vibrant, contrasting colors."
+  },
+  {
+    "Category": "Abstract & Artistic",
+    "Prompt": "Melting clocks in a surreal landscape inspired by Salvador Dalí."
+  },
+  {
+    "Category": "Abstract & Artistic",
+    "Prompt": "Fractals spiraling infinitely into smaller versions of themselves."
+  },
+  {
+    "Category": "Abstract & Artistic",
+    "Prompt": "A collage of torn paper and mixed media creating textured depth."
+  },
+  {
+    "Category": "Abstract & Artistic",
+    "Prompt": "Neon lights painting abstract shapes on a wet city street."
+  },
+  {
+    "Category": "Abstract & Artistic",
+    "Prompt": "A digital glitch effect distorting reality into pixelated fragments."
+  },
+  {
+    "Category": "Abstract & Artistic",
+    "Prompt": "Marble patterns swirling in shades of gold and deep blue."
+  },
+  {
+    "Category": "Abstract & Artistic",
+    "Prompt": "A symphony of colors flowing like music across the canvas."
+  },
+  {
+    "Category": "Abstract & Artistic",
+    "Prompt": "Glass spheres reflecting and refracting light in endless patterns."
+  },
+  {
+    "Category": "Architecture & Structures",
+    "Prompt": "A medieval castle perched on a cliff overlooking the sea."
+  },
+  {
+    "Category": "Architecture & Structures",
+    "Prompt": "A futuristic city skyline with towering glass spires."
+  },
+  {
+    "Category": "Architecture & Structures",
+    "Prompt": "An ancient Greek temple with marble columns and intricate carvings."
+  },
+  {
+    "Category": "Architecture & Structures",
+    "Prompt": "A cozy cottage with ivy-covered walls and a thatched roof."
+  },
+  {
+    "Category": "Architecture & Structures",
+    "Prompt": "A lighthouse standing tall against crashing ocean waves."
+  },
+  {
+    "Category": "Architecture & Structures",
+    "Prompt": "A Gothic cathedral with soaring arches and stained glass windows."
+  },
+  {
+    "Category": "Architecture & Structures",
+    "Prompt": "A bamboo house on stilts overlooking a tropical lagoon."
+  },
+  {
+    "Category": "Architecture & Structures",
+    "Prompt": "A modern glass house nestled in a forest clearing."
+  },
+  {
+    "Category": "Architecture & Structures",
+    "Prompt": "An ancient pyramid rising from golden desert sands."
+  },
+  {
+    "Category": "Architecture & Structures",
+    "Prompt": "A charming wooden bridge arching over a babbling brook."
+  },
+  {
+    "Category": "Architecture & Structures",
+    "Prompt": "A space station orbiting Earth with solar panels gleaming."
+  },
+  {
+    "Category": "Architecture & Structures",
+    "Prompt": "A traditional Japanese pagoda surrounded by cherry blossoms."
+  },
+  {
+    "Category": "Architecture & Structures",
+    "Prompt": "A windmill on a hilltop with fields of grain stretching below."
+  },
+  {
+    "Category": "Architecture & Structures",
+    "Prompt": "A subway tunnel with colorful graffiti art covering the walls."
+  },
+  {
+    "Category": "Architecture & Structures",
+    "Prompt": "An underground cavern transformed into a magnificent ballroom."
+  },
+  {
+    "Category": "Seasonal or Weather Themes",
+    "Prompt": "A snowy village with warm lights glowing in cozy windows."
+  },
+  {
+    "Category": "Seasonal or Weather Themes",
+    "Prompt": "Autumn leaves falling gently onto a quiet forest path."
+  },
+  {
+    "Category": "Seasonal or Weather Themes",
+    "Prompt": "A rainbow arcing across the sky after a summer storm."
+  },
+  {
+    "Category": "Seasonal or Weather Themes",
+    "Prompt": "Morning mist rising from a peaceful valley meadow."
+  },
+  {
+    "Category": "Seasonal or Weather Themes",
+    "Prompt": "Spring flowers blooming after a gentle rainfall."
+  },
+  {
+    "Category": "Seasonal or Weather Themes",
+    "Prompt": "A sunflower field basking in the summer sun."
+  },
+  {
+    "Category": "Seasonal or Weather Themes",
+    "Prompt": "A cozy cabin surrounded by deep snowdrifts."
+  },
+  {
+    "Category": "Seasonal or Weather Themes",
+    "Prompt": "A frozen lake with children skating under clear winter skies."
+  },
+  {
+    "Category": "Seasonal or Weather Themes",
+    "Prompt": "A garden bursting with tulips and daffodils in early spring."
+  },
+  {
+    "Category": "Seasonal or Weather Themes",
+    "Prompt": "Lightning illuminating a distant mountain during a summer storm."
+  },
+  {
+    "Category": "Seasonal or Weather Themes",
+    "Prompt": "Trees covered in delicate frost at dawn."
+  },
+  {
+    "Category": "Seasonal or Weather Themes",
+    "Prompt": "A sun-drenched picnic scene in a green park."
+  },
+  {
+    "Category": "Seasonal or Weather Themes",
+    "Prompt": "Children building a sandcastle at the beach under blue skies."
+  },
+  {
+    "Category": "Seasonal or Weather Themes",
+    "Prompt": "A Halloween night with glowing jack-o-lanterns and swirling fog."
+  },
+  {
+    "Category": "Seasonal or Weather Themes",
+    "Prompt": "A festive outdoor market decorated with wreaths and garlands."
+  },
+  {
+    "Category": "Seasonal or Weather Themes",
+    "Prompt": "Fireflies lighting up a warm summer evening in a meadow."
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "extends": ["@typescript-eslint/recommended"],
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["@typescript-eslint", "i18next"],
+  "rules": {
+    "i18next/no-literal-string": [
+      "error",
+      {
+        "markupOnly": true,
+        "ignoreAttribute": [
+          "className",
+          "data-testid",
+          "data-cy",
+          "key",
+          "id",
+          "role",
+          "type",
+          "method",
+          "name",
+          "value",
+          "href",
+          "src",
+          "alt",
+          "target",
+          "rel",
+          "width",
+          "height",
+          "viewBox",
+          "xmlns",
+          "fill",
+          "stroke",
+          "strokeWidth",
+          "strokeLinecap",
+          "strokeLinejoin"
+        ]
+      }
+    ]
+  }
+}
